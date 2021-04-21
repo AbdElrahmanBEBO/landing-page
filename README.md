@@ -16,7 +16,7 @@
 | CSS | css/styles.css |
 | HTML | index.html |
 
-**Link of project** : [title](https://github.com/AbdElrahmanBEBO/landing-page)
+**project Link** : [LandingPage_link](https://github.com/AbdElrahmanBEBO/landing-page)
 
 # project description
   make a navigationbar that contains a different sections 
